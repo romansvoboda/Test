@@ -13,7 +13,7 @@
 /*
  * 
  Vagner te vidi.
- Ale ty jsi  jeho sluebníèek
+ Ale ty jsi  jeho sluebníèek... Hlavní sluzebnicek
  */
 
 void mergeSort(uint64_t* array, uint64_t* aux, uint32_t left, uint32_t right);
