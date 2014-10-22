@@ -13,8 +13,12 @@
 /*
  * 
  Vagner te vidi.
+<<<<<<< HEAD
  Ale ty jsi  jeho služebníèek
  Cokoliv sire Roumane.
+=======
+ Ale ty jsi  jeho služebníèek... Hlavní sluzebnicek
+>>>>>>> origin/Verze-2.0
  */
 
 void mergeSort(uint64_t* array, uint64_t* aux, uint32_t left, uint32_t right);
