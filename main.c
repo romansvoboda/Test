@@ -169,7 +169,7 @@ int main(int argc, char** argv) {
                 for(j=i+1;j<numberAAfter;j++)
                 {
                     /*lze zrychlit binary*/
-                    if ((j==i+1) || (sortedArray[j] == sortedArray[i+1]))
+                    if ((j==i+1) || (sortedArray[j+3] == sortedArray[i+1]))
                         numberASmall++;
                     else
                         break;
