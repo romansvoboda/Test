@@ -29,6 +29,8 @@
 >>>>>>> origin/Verze-2.0
  */
  //fkladjkfjakhfdjkasfhdkaj
+ 
+ /*ULTIMATE TROLLING LEAGUE*/
 
 void mergeSort(uint64_t* ar, uint64_t* aux, uint32_t left, uint32_t right);
 void merge(uint64_t* array, uint64_t* aux, uint32_t left, uint32_t right);
